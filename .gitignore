@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+test
+token_test
+parser_test
